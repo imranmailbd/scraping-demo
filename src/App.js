@@ -4,6 +4,8 @@ import cheerio from "cheerio";
 
 import "./App.css";
 
+
+
 class App extends Component {
   state = { names: [] };
 
@@ -30,13 +32,31 @@ class App extends Component {
       .catch(function(err) {
         console.log("crawl failed");
       });
+
+
+
+
   }
 
   render() {
     return (
+
+     
+
       <div>
         <ul>
-          {this.state.names.map(name => {return <li key={name}>{name}</li>;})}
+          {this.state.names.map(name => {
+
+             var HTMLParser = require('fast-html-parser');
+             var test = name;
+       var root = HTMLParser.parse(test);
+      console.log(root.firstChild.structure);
+
+            return <li key={name}>{name}</li>;  
+
+
+
+          })}
         </ul>
       </div>
     );
