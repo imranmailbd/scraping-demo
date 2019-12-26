@@ -1,0 +1,35 @@
+<th data-sort="string">Company</th><th data-sort="string">Sector</th><th data-sort="string">Industry</th><th data-sort="float">Consensus Rating</th><th data-sort="float">Consensus Price Target</th>
+
+<td>
+	<a class="no-underline" href="/stocks/TSE/AW-UN/">
+		<div class="company-thumbnail"><img src="https://www.marketbeat.com/logos/thumbnail/a-and-w-revenue-royalties-income-fund-logo.jpg" alt="A and W Revenue Royalties Income Fund logo">
+		</div>
+		<div class="ticker-area">AW.UN</div><div class="title-area">A and W Revenue Royalties Income Fund</div>
+	</a>
+</td>
+<td>Consumer Cyclical</td>
+<td>Restaurants</td><td data-sort-value="3">Buy</td>
+<td data-sort-value="0">N/A</td>
+
+<td>
+<a class="no-underline" href="/stocks/CVE/AIS/">
+	<div class="ticker-area">AIS</div><div class="title-area">A I S RESOURCES/SH SH</div>
+</a>
+</td>
+<td>
+</td>
+<td>Asset Management</td
+<td data-sort-value="0">N/A</td><td data-sort-value="0">N/A</td>
+<td><a class="no-underline" href="/stocks/OTCMKTS/AMKBY/"><div class="company-thumbnail"><img src="https://www.marketbeat.com/logos/thumbnail/a-p-mollar-mrsk-logo.jpg" alt="A P MOLLER-MAER/ADR logo"></div><div class="ticker-area">AMKBY</div><div class="title-area">A P MOLLER-MAER/ADR</div></a></td><td>Transportation</td><td>Private households</td><td data-sort-value="1">Sell</td><td data-sort-value="0">N/A</td>
+<td><a class="no-underline" href="/stocks/NYSE/AHC/"><div class="company-thumbnail"><img src="https://www.marketbeat.com/logos/thumbnail/a-h-belo-co-logo.gif" alt="A. H. Belo logo"></div><div class="ticker-area">AHC</div><div class="title-area">A. H. Belo</div></a></td><td>Consumer Staples</td><td>Newspapers</td><td data-sort-value="0">N/A</td><td data-sort-value="0">N/A</td>
+
+<td><a class="no-underline" href="/stocks/NYSE/AOS/"><div class="company-thumbnail"><img src="https://www.marketbeat.com/logos/thumbnail/ao-smith-logo.jpg" alt="A. O. Smith logo"></div><div class="ticker-area">AOS</div><div class="title-area">A. O. Smith</div></a></td><td>Industrial Products</td><td>Household appliances</td><td data-sort-value="2">Hold</td><td data-sort-value="54.4257142857143">$54.43</td>
+
+<td>
+<a class="no-underline" href="/stocks/LON/BAG/"><div class="company-thumbnail"><img src="https://www.marketbeat.com/logos/thumbnail/agbarr-logo.jpg" alt="A.G. Barr logo"></div><div class="ticker-area">BAG</div><div class="title-area">A.G. Barr</div></a>
+</td>
+<td>Consumer Defensive</td><td>Beverages - Soft Drinks</td>
+<td data-sort-value="2">Hold</td>
+<td data-sort-value="7.76111549592213">GBX 590</td>
+
+<td><a class="no-underline" href="/stocks/OTCMKTS/AMFPF/"><div class="ticker-area">AMFPF</div><div class="title-area">A.P. Moller - Marsk A/S</div></a></td><td></td><td></td><td data-sort-value="2">Hold</td><td data-sort-value="0">N/A</td>
